@@ -28,9 +28,8 @@ yarn start
 ```
 This will deploy the React Application onto your local system at `localhost:3000`.
 <br>
-Now, to start running the API, run the following script
+Now, to start running the API, run the following script in a new terminal
 ```
-cd ..
 cd api
 nodemon index.js
 ```
