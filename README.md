@@ -9,6 +9,17 @@ This project was managed using `yarn`.
 - User-friendly and eye-catching UI
 - Includes `mongoose` library for connection with MongoDB
 
+<br>
+
+<p align='center'>
+  <img width="479" alt="image" src="https://github.com/sav-1305/blog-webpage/assets/115809311/a1b60759-98f7-4689-9f21-6ba386193a5a">
+</p>
+<p align='center'>
+  preview of home-page
+</p>
+
+<br>
+
 ## HOW-TO-USE
 Import the project directory into your local system. Once opened in the terminal, run the following script
 ```
