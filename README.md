@@ -12,7 +12,7 @@ This project was managed using `yarn`.
 <br>
 
 <p align='center'>
-  <img width="479" alt="image" src="https://github.com/sav-1305/blog-webpage/assets/115809311/a1b60759-98f7-4689-9f21-6ba386193a5a">
+  <img width="745" alt="image" src="https://github.com/sav-1305/blog-webpage/assets/115809311/5245f9ae-58dd-40ce-91b7-e32d5a2290bf">
 </p>
 <p align='center'>
   preview of home-page
